@@ -2,6 +2,8 @@ import 'package:fitness_app/auth_Screens/login_Screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+// this code is for testing purpose only
+
 void main() {
   runApp(MyApp());
 }
@@ -113,3 +115,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
